@@ -1,6 +1,6 @@
 {
 	"name": "Very Epic Hangfinder",
-	"description": "This will print out stuff to the logs whenever the game attempts to load/finishes loading an asset, so you can then use that to find out what asset is causing the game to freeze (hopefully) and also will cancel attempting to load assets that are taking too long to load",
+	"description": "This will print out stuff to the logs whenever the game attempts to load/finishes loading an asset, so you can then use that to find out what asset is causing the game to freeze (hopefully) and also will cancel attempting to load assets that are taking too long to load (hopefully)",
 	"author": "Parasocial Catgirl, Offyerrocker, and Hoppip",
 	"contact": "https://modworkshop.net/user/7",
 	"version": "2",
