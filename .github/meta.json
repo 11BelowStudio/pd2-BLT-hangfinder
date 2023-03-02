@@ -3,6 +3,6 @@
         "ident" : "hangfinder_autoupdate",
         "version" : "%VERSION%",
         "patchnotes_url" : "https://github.com/11BelowStudio/pd2-BLT-hangfinder/blob/main/README.md",
-        "download_url" : "https://github.com/11BelowStudio/pd2-BLT-hangfinder/releases/download/refs%2Fheads%2Fmain/Very%20Epic%20Hangfinder.zip"
+        "download_url" : "https://github.com/11BelowStudio/pd2-BLT-hangfinder/releases/download/refs%2Fheads%2Fmain/Very-Epic-Hangfinder.zip"
     }
 ]
