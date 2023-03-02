@@ -1,0 +1,24 @@
+{
+	"name": "Very Epic Hangfinder",
+	"description": "This will print out stuff to the logs whenever the game attempts to load/finishes loading an asset, so you can then use that to find out what asset is causing the game to freeze (hopefully) and also will cancel attempting to load assets that are taking too long to load",
+	"author": "Parasocial Catgirl, Offyerrocker, and Hoppip",
+	"contact": "https://modworkshop.net/user/7",
+	"version": "2",
+	"color": "189 30 36",
+	"image" : "icon.png", 
+	"blt_version": 2,
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/dynamicresourcemanager",
+			"script_path" : "hangfinder.lua"
+		}
+	],
+	"updates" : [
+		{
+			"identifier" : "hangfinder_autoupdate",
+			"host": {
+				"meta": "https://github.com/11BelowStudio/pd2-BLT-hangfinder/releases/download/refs%2Fheads%2Fmain/meta.json"
+			}
+		}
+	]
+}
