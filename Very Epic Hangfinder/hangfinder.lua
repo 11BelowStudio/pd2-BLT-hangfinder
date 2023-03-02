@@ -1,4 +1,4 @@
--- pls no halting problem :)
+-- pls no halting problem thx :)
 if not HangFinder then 
 
 	_G.HangFinder = {
